@@ -5,7 +5,8 @@ body {
   /* Hide elements that flow outside the viewable space */
   overflow: hidden;
   /* Black background for the screen */
-  background: #000;
+  /*background: #000;* -----------------couleur noire de fond originale remplacée par image */
+  background-image: url('stars_opa30.jpg');
 }
 .star-wars {
   /* Flexbox to center the entire element on the screen */
