@@ -51,7 +51,7 @@ body {
 @keyframes crawl {
   0% {
     /* The element starts below the screen */
-    top: 0;
+    top: 285px;
     /* Rotate the text 20 degrees but keep it close to the viewer */
     transform: rotateX(20deg) translateZ(0);
   }
