@@ -68,7 +68,7 @@ body {
   /* Making sure the text is fully off the screen at the start and end of the animation */
   top: -100px;
   /* Defines the skew origin at the very center when we apply transforms on the animation */
-  transform-origin: 50% 100%;
+  transform-origin: 50% 45%;
 	/* Adds the crawl animation, which plays for one minute */
  	animation: crawl 60s linear;
 }
